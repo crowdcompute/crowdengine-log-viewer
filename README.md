@@ -1,2 +1,1 @@
-# crowdengine-log-viewer
-Crowdengine dev-nodes log viewer
+Kibana server is not ready yet
