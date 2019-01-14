@@ -4,7 +4,7 @@ Crowdengine log viewer is a frontend app which allows developers inspect the log
 
 We have decided to automate the initialization and deployment of nodes to a local test network, in order to save time during development. This approach allows us to develop and deploy the new code without the need to rebuild and reconfigure the `gocc` client.
 
-![Screenshot](src/assets/low_viewer.png?raw=true)
+![Screenshot](low_viewer.png)
 
 ## Run Crowdengine
 
